@@ -1,10 +1,4 @@
-.gitignore
-.prettierignore
-yarn.lock
-yarn-error.log
+# Lock files
 package-lock.json
-LICENSE
-*.ejs
-dist
-coverage
 pnpm-lock.yaml
+yarn.lock
