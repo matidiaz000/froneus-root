@@ -17,6 +17,6 @@ export default defineConfig({
     },
   },
   html: {
-    title: 'Test',
+    title: 'Froneus',
   },
 });

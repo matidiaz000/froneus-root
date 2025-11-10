@@ -5,7 +5,6 @@ export default createModuleFederationConfig({
   name: process.env.NAME,
   remotes: {
     home: process.env.MF_HOME as string,
-    people: process.env.MF_PEOPLE as string,
   },
   dts: false,
   shared: {
